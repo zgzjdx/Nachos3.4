@@ -1,5 +1,6 @@
 #include "dllist.h"
 
+
 // initialize a list element
 DLLElement::DLLElement(IN void *itemPtr, IN int sortKey)
 {
