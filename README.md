@@ -10,5 +10,5 @@ Upload lab1 and lab2
 注意第二次实验截止时间:2019-11-17        
 
 ***** 2019-11-14 *****     
-Upload powerpoint of first exerice class     
+Upload powerpoint of first exercise class     
 期中试卷批改进度(5/9)   
