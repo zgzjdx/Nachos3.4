@@ -12,3 +12,6 @@ Upload lab1 and lab2
 ***** 2019-11-14 *****     
 Upload powerpoint of first exercise class     
 期中试卷批改进度(5/9)   
+
+***** 2019-11-15 *****     
+Upload lab3    
