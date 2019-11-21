@@ -19,3 +19,7 @@ Upload lab3
 ***** 2019-11-17 *****     
 期中试卷批改完毕      
 分享一篇用信号量实现条件变量的论文，感谢海健    
+
+***** 2019-11-21 *****     
+Update lab3    
+Upload powerpoint of second exercise class  
