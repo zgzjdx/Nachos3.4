@@ -23,3 +23,6 @@ Upload lab3
 ***** 2019-11-21 *****     
 Update lab3    
 Upload powerpoint of second exercise class  
+
+***** 2019-11-29 *****       
+注意第三次实验截止时间：2019-12-01     
