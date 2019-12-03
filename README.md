@@ -27,5 +27,10 @@ Upload powerpoint of second exercise class
 ***** 2019-11-29 *****       
 注意第三次实验截止时间：2019-12-01     
 
-***** 2019-12-03 *****       
+***** 2019-12-03 and 2019-12-04 *****       
 Upload lab4          
+分享4个博客        
+1.lab4的伪码  https://sites.google.com/site/cj4000/nachoslab4     
+2.山东大学nachos实验6  https://blog.csdn.net/mottled233/article/details/78633571    
+3.nachos学习笔记(六)  https://blog.csdn.net/darord/article/details/86767459    
+4. https://www.cnblogs.com/xjx-user/archive/2012/12/05/2803379.html     
