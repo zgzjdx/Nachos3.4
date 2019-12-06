@@ -34,3 +34,6 @@ Upload lab4
 2.山东大学nachos实验6  https://blog.csdn.net/mottled233/article/details/78633571    
 3.nachos学习笔记(六)  https://blog.csdn.net/darord/article/details/86767459    
 4. https://www.cnblogs.com/xjx-user/archive/2012/12/05/2803379.html     
+
+***** 2019-12-06*****          
+Update lab4            
