@@ -36,4 +36,7 @@ Upload lab4
 4. https://www.cnblogs.com/xjx-user/archive/2012/12/05/2803379.html     
 
 ***** 2019-12-06*****          
-Update lab4            
+Update lab4  
+
+***** 2019-12-19*****          
+Upload powerpoint of third exercise class and some materials     
